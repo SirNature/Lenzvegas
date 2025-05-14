@@ -1,5 +1,5 @@
 import './App.css'
-import logo from './assets/lenzvegas_logo_no_bg.png'
+import logo from './Assets/lenzvegas_logo_no_bg.png'
 
 function App() {
 
